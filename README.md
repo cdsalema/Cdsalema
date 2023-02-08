@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Conrado Salema</h1>
-<h3 align="center">A apprentice frontend developer from Brasil</h3>
+<h3 align="center">A frontend developer from Brasil</h3>
 
 - 🔭 I’m currently working on [2_project](https://github.com/cdsalema/2_project)
 - 🌱 I’m currently learning **JS,React,Angular**
