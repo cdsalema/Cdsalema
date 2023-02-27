@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Conrado Salema</h1>
 <h3 align="center">A frontend developer from Brasil</h3>
 
-- 🔭 I’m currently working on [Calc_hp1.2c](https://github.com/cdsalema/CALC_3project)
+- 🔭 I’m currently working on [JOKEnPOW](https://github.com/cdsalema/jokenpow_5project)
 - 🌱 I’m currently learning **JS,React,Angular**
 - 📫 How to reach me **conradod.salema@gmail.com**
 
