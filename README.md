@@ -4,17 +4,17 @@
 - 🔭 I’m currently working on [JOKEnPOW](https://github.com/cdsalema/jokenpow_5project)
 - 🌱 I’m currently learning **JS,React,Angular**
 - 📫 How to reach me **conradod.salema@gmail.com**
-
-
-<span text-align="center"> ![Cdsalema GitHub stats](https://github-readme-stats.vercel.app/api?username=cdsalema&show_icons=true&theme=radical&hide_border=true)</span>
-<span text-align="center"> ![Cdsalema GitHub Streak](https://streak-stats.demolab.com?user=cdsalema&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)</span>
-
- 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,nodejs" />
   </a>
 </p>
+
+<span text-align="center"> ![Cdsalema GitHub stats](https://github-readme-stats.vercel.app/api?username=cdsalema&show_icons=true&theme=radical&hide_border=true)</span>
+<span text-align="center"> ![Cdsalema GitHub Streak](https://streak-stats.demolab.com?user=cdsalema&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)</span>
+
+ 
+
   
 
 <h5 align="left">Connect with me:</h5>
