@@ -13,9 +13,9 @@
 
 <div align="center">
 <a href="https://github.com/cdsalema"></a>
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdsalema&layout=compact&theme=radical&hide_border=true"><br>
-<img height="130em"src="https://github-readme-stats.vercel.app/api?username=cdsalema&show_icons=true&theme=radical&hide_border=true">
-<img height="130em" src="https://streak-stats.demolab.com?user=cdsalema&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D">
+<img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdsalema&layout=compact&theme=radical&hide_border=true"><br>
+<img height="150em"src="https://github-readme-stats.vercel.app/api?username=cdsalema&show_icons=true&theme=radical&hide_border=true">
+<img height="150em" src="https://streak-stats.demolab.com?user=cdsalema&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D">
 <br>
 </div>  
 
