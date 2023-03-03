@@ -12,8 +12,8 @@
 
 <div align="center">
 <a href="https://github.com/cdsalema"></a>
-<img src="https://github-readme-stats.vercel.app/api?username=cdsalema&show_icons=true&theme=radical&hide_border=true">
-<img src="https://streak-stats.demolab.com?user=cdsalema&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D">
+<img height="180em"src="https://github-readme-stats.vercel.app/api?username=cdsalema&show_icons=true&theme=radical&hide_border=true">
+<img height="180em" src="https://streak-stats.demolab.com?user=cdsalema&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D">
 </div>  
 
 <h5 align="left">Connect with me:</h5>
