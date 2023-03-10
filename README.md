@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Conrado Salema</h1>
+<h1 align="center">Hi, I'm Conrado Salema</h1>
 <h3 align="center">A frontend developer from Brasil</h3>
 <!--
 - 🔭 I’m currently working on [JOKEnPOW](https://github.com/cdsalema/jokenpow_5project)
